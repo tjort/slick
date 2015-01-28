@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="slick" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Slick</name>
+	<description>Make Symphony better looking</description>
+	<repo type="github">https://github.com/tjort/</repo>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="tjort" symphony="tjort">Verdult Works</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2015-01-28" min="2.3.0" max="2.5.2"/>
+	</releases>
+</extension>
