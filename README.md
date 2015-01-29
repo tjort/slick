@@ -7,6 +7,10 @@ Slick for Symphony CMS
 
 An extension for Symphony CMS that aims to make the UI a bit better looking - in the humble opinion of this developer - for the end user. Still in a very early stage. 
 
+Screenshots
+-----------
+https://cloud.githubusercontent.com/assets/1574357/5956411/f679ae96-a7ad-11e4-8032-05d5f7bd9783.png)
+
 Installation and Setup
 ----------------------
 
@@ -14,7 +18,7 @@ Installation and Setup
 2. Go to Extensions and enable 'Slick'.
 
 Changes to UI
------
+-------------
 
 - Forms are less barren looking
 - Some margin and padding changes
