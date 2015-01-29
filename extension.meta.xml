@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="slick" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Slick</name>
-	<description>Make Symphony better looking</description>
+	<description>Make Symphony even better looking</description>
 	<repo type="github">https://github.com/tjort/</repo>
 	<types>
 		<type>Interface</type>

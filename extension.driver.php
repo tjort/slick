@@ -4,7 +4,7 @@
 
 		public function about() {
 			return array(
-				'name'			=> 'Slick: a better looking Symphony',
+				'name'			=> 'Slick: an even better looking Symphony',
 				'version'		=> '1.0',
 				'release-date'	=> '2015-01-28',
 				'author'		=> array(
