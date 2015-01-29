@@ -9,7 +9,7 @@ An extension for Symphony CMS that aims to make the UI a bit better looking - in
 
 Screenshots
 -----------
-https://cloud.githubusercontent.com/assets/1574357/5956411/f679ae96-a7ad-11e4-8032-05d5f7bd9783.png)
+![Slick Screenshot 1](https://cloud.githubusercontent.com/assets/1574357/5956411/f679ae96-a7ad-11e4-8032-05d5f7bd9783.png)
 
 Installation and Setup
 ----------------------
