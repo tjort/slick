@@ -5,7 +5,7 @@ Slick for Symphony CMS
 - Author: Jordi Verdult
 - Requirements: Symphony 2.3.2
 
-An extension for Symphony CMS that aims to make the UI a bit better looking - in the humble opinion of this developer - for the end user.
+An extension for Symphony CMS that aims to make the UI a bit better looking - in the humble opinion of this developer - for the end user. Still in a very early stage. 
 
 Installation and Setup
 ----------------------
